@@ -39,7 +39,7 @@ Explanation: Your function should return length = 5, with the first five element
 ```
 Constraints:
 
-0 <= nums.length <= 3 * 104
--104 <= nums[i] <= 104
-nums is sorted in ascending order.
+* 0 <= nums.length <= 3 * 104
+* -104 <= nums[i] <= 104
+* nums is sorted in ascending order.
 ```
