@@ -5,11 +5,8 @@ The order of elements can be changed. It doesn't matter what you leave beyond th
 
 ```shell
 Clarification:
-
 Confused why the returned value is an integer but your answer is an array?
-
 Note that the input array is passed in by reference, which means a modification to the input array will be known to the caller as well.
-
 Internally you can think of this:
 
 // nums is passed in by reference. (i.e., without making a copy)
@@ -23,8 +20,6 @@ for (int i = 0; i < len; i++) {
  ```
 ```shell
 Example 1:
-```
-```shell
 Input: nums = [3,2,2,3], val = 3
 Output: 2, nums = [2,2]
 Explanation: Your function should return length = 2, with the first two elements of nums being 2.
