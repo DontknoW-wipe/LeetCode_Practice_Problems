@@ -1,4 +1,4 @@
 # LeetCode_Practice_Problems
 
-* ```shell 27. Remove Element```
-* ```shell 35. Search Insert Position```
+* ```27. Remove Element```
+* ```35. Search Insert Position```
