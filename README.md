@@ -2,3 +2,4 @@
 
 * ```27. Remove Element```
 * ```35. Search Insert Position```
+* ```26. Remove Duplicates from Sorted Array```
